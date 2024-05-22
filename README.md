@@ -1,5 +1,5 @@
 # HAL: Hello world
-<a href='https://codespaces.new/AmiraBelly/mtb-example-hal-hello-world'><img src='https://github.com/codespaces/badge.svg' alt='Open in GitHub Codespaces' style='max-width: 100%;'></a>
+<a href='https://codespaces.new/AmiBelly/mtb-example-hal-hello-world'><img src='https://github.com/codespaces/badge.svg' alt='Open in GitHub Codespaces' style='max-width: 100%;'></a>
 
 This code example demonstrates a simple UART communication by printing the "Hello world" message on a terminal and blinking an LED using a timer resource. The code example is based on HAL(Hardware Abstraction Layer) libraries.
 
