@@ -15,7 +15,7 @@ RUN mkdir /home/vscode/mtb-workspace
 RUN mkdir /home/vscode/mtb-workspace/mtb-example-hal-hello-world
 WORKDIR /home/vscode/mtb-workspace/mtb-example-hal-hello-world
 
-#ENV CY_TOOLS_PATHS=/opt/ModusToolbox/tools_3.0
+ENV CY_TOOLS_PATHS=/opt/ModusToolbox/tools_3.0
 
 COPY --chown=vscode:vscode . .
 
