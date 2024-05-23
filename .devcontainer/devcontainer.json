@@ -5,7 +5,7 @@
         "context": "..",
         "args": {
             "VARIANT": "stable",
-            "TARGET": "CY8CPROTO-062-4343W"
+            "TARGET": "CY8CKIT-062S2-43012"
         }
     },
     "workspaceFolder": "/home/vscode/mtb-workspace",
