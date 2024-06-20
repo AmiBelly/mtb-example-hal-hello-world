@@ -40,7 +40,7 @@ MTB_TYPE=COMBINED
 # To change the target, it is recommended to use the Library manager
 # ('make library-manager' from command line), which will also update Eclipse IDE launch
 # configurations.
-TARGET=CY8CKIT-062S2-43012
+TARGET=CY8CPROTO-062-4343W
 
 # Name of application (used to derive name of final linked file).
 #
